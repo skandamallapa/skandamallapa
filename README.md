@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skandamallapa
+- 👋 Hi, I’m @skandamallappa
 - 👀 I’m interested in Reading.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on ...
